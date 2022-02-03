@@ -1,0 +1,67 @@
+.contact-container {
+  background: rgba(201, 173, 101, 0.507);
+  width: 100%;
+  height: 100%;
+}
+.contact-main {
+  color: #6b705c;
+  padding: 30px;
+}
+.contact-title {
+  font-size: 50px;
+}
+.contact-email {
+  font-size: 30px;
+  margin-top: 5px;
+}
+.contact-sub {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding: 10px;
+}
+.github-img {
+  background: url("../images/github.png");
+  background-size: cover;
+  width: 250px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.contact-github {
+  text-decoration: none;
+  padding: 20px;
+  font-size: 24px;
+  color: #9c6644;
+}
+.blog-img {
+  background: url("../images/blog.png");
+  background-size: cover;
+  width: 250px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.contact-blog {
+  padding: 20px;
+  font-size: 24px;
+  color: #9c6644;
+}
+.resume-img {
+  background: url("../images/resume.png");
+  background-size: cover;
+  width: 250px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.contact-resume {
+  padding: 20px;
+  font-size: 24px;
+  color: #9c6644;
+}
+.contact-msg {
+  padding-top: 10px;
+  font-size: 18px;
+  color: rgb(184, 119, 34);
+}

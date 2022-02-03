@@ -1,0 +1,42 @@
+.project-container {
+  background: rgba(201, 173, 101, 0.507);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.first-section {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.project-first {
+  width: 400px;
+  height: 270px;
+  border: 1px solid black;
+  border-radius: 20px;
+  background: url("../images/netflix.png");
+  background-size: cover;
+}
+.first-desc {
+  padding-top: 20px;
+}
+.project-empty {
+  padding: 30px;
+}
+.second-section {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.project-second {
+  width: 400px;
+  height: 270px;
+  border: 1px solid black;
+  border-radius: 20px;
+  background: url("../images/apang.png");
+  background-size: cover;
+}
+.second-desc {
+  padding-top: 20px;
+}
